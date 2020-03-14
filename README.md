@@ -1,4 +1,4 @@
-## BE Exploit
+## ⚠️ BE Exploit
 
 BattlEye exploit, it shits on their security, literally.
 
