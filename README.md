@@ -1,4 +1,5 @@
 ## ⚠️ BE Exploit
+![Build](https://img.shields.io/badge/Build-Passing!-green)
 
 BattlEye exploit, it shits on their security, literally.
 
