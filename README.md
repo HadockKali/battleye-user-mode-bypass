@@ -58,8 +58,9 @@ support for:
 
 ## Credits
 
-DefCon42, drew79, Brit and haram <3
-	Also credits to the stupid BE team for not implementing a prevention-handler on theirs software.
+DefCon42, Brit and haram <3
+	
+    Also credits to the stupid BE team for not implementing a prevention-handler on theirs software.
 
 ## Support
 
