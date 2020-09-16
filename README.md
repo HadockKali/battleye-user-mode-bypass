@@ -64,5 +64,4 @@ DefCon42, Brit and haram <3
 
 ## Support
 
-	This is just a proof of conccept, I will not continue to sustain this project.   
-											- 0day Team
+	None.
