@@ -60,7 +60,7 @@ support for:
 
 DefCon42, Brit and haram <3
 	
-    Also credits to the stupid BE team for not implementing a prevention-handler on theirs software.
+    Also credits to the stupid BE team for not implementing a prevention-handler on their software.
 
 ## Support
 
