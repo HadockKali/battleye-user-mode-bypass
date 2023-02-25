@@ -1,7 +1,7 @@
 ## ⚠️ BE Exploit
 ![Build](https://img.shields.io/badge/Build-Passing!-green)
 
-#### [WARNING] This exploit has been patched by EAC! You can still learn from this repository or even research furthure exploiting. Thank you!
+#### [WARNING] This exploit has been patched by EAC! You can still learn from this repository or even research further exploiting. Thank you!
 
 BattlEye exploit, it s**ts on their security, literally.
 
