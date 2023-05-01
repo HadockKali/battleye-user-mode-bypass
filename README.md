@@ -1,7 +1,9 @@
 ## ⚠️ BE Exploit
 ![Build](https://img.shields.io/badge/Build-Passing!-green)
 
-#### [WARNING] This exploit has been patched by EAC! You can still learn from this repository or even research further exploiting. Thank you!
+#### [WARNING] This exploit has been patched by BattleEye! You can still learn from this repository or even research further exploiting using similar tehniques. Thank you!
+
+NOTE: As of April 2023 something similar has been confirmed but I will not be posting it publicaly on GitHub to avoid patching.
 
 BattlEye exploit, it s**ts on their security, literally.
 
@@ -47,7 +49,7 @@ LRESULT wnd_hk( int32_t code, WPARAM wparam, LPARAM lparam )
 }
 ```
 
-The implant is a ready-to-inject example for R6:S that'll enable player icons once in-game. {Usually hidden in the prep-phase}
+The implant is a ready-to-inject example for R6:S that'll enable player icons once in-game. (Usually hidden in the prep-phase)
 
 ## Features
 
